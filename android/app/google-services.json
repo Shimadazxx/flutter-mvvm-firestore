@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372019887945",
+    "project_id": "task-flutter-firestore-d1a99",
+    "storage_bucket": "task-flutter-firestore-d1a99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372019887945:android:ae7570e2bb4e7fc276e498",
+        "android_client_info": {
+          "package_name": "com.example.simple_cloud_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWSs2vIfWJRmzdQNSt_wnzvX5M_YJf1mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
